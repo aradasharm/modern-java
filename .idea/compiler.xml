@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="sharama-study" target="11" />
+      <module name="sharma-study-algorithms" target="11" />
+      <module name="sharma-study-commons" target="11" />
+      <module name="sharma-study-concurrency" target="11" />
+      <module name="sharma-study-data-structures" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
